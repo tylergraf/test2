@@ -1,6 +1,6 @@
 {
   "name": "test2",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "authors": [
     "Tyler Graf <tylergraf@gmail.com>"
   ],
@@ -15,7 +15,7 @@
     "tests"
   ],
   "dependencies": {
-    "test3": "git+https://github.com/tylergraf/test3#^0.0.3",
+    "test3": "git+https://github.com/tylergraf/test3#^0.1.0",
     "polymer": "git+https://github.com/polymer/polymer#^1.7.0"
   }
 }
